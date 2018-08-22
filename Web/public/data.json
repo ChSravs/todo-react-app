@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"bag","Price":399.00,"src":"images/bag.jpg"},
+    {"id":2,"name":"Shoes","Price":149.00,"src":"images/shoes.jpg"},
+    {"id":3,"name":"Camera","Price":1299.00,"src":"images/camera.jpg"},
+    {"id":4,"name":"Curtains","Price":799.00,"src":"images/curtains.jpeg"},
+    {"id":5,"name":"T-Shirt","Price":199.00,"src":"images/t-shirt.jpg"},
+    {"id":6,"name":"ToolKit","Price":999.00,"src":"images/toolkit.jpg"}
+]
